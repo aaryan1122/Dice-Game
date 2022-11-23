@@ -1,1 +1,1 @@
-# Dice-Game
+# Dice-Game made through js,html,css
